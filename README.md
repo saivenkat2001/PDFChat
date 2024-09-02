@@ -67,13 +67,15 @@ PDFChat/
 5. **Access the Application:**
 
     Once the application is running, it will open a web-based interface where you can upload PDFs and interact with the assistant.
+
     **Usage** 
+    
     Upload a PDF: Use the interface to upload a PDF document.
 
     Ask Questions: Type in your question regarding the content of the PDF.
 
     Receive Answers: The assistant will provide a concise and accurate response based on the document content.
-    
+
 
 ### Acknowledgments
 LangChain: For providing the framework to easily build and deploy language model-powered applications.
