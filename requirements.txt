@@ -1,0 +1,12 @@
+langchain
+sentence-transformers
+python_dotenv
+chromadb
+langchain-community
+langchain-google-genai
+langchain-chroma
+# streamlit
+# streamlit-chat
+google-generativeai
+gradio
+langchain_huggingface
